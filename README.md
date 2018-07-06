@@ -1,2 +1,2 @@
-# data-science-portfolio
-Portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
+# Amazon Apparel Recommendations Engine
+This project/repo contains the code for recommending apparel, which recommends the similar apparel of searched appearel.
