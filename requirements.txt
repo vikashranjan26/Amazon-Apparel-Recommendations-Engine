@@ -8,3 +8,4 @@ PIL
 bs4
 nltk
 seaborn
+plotly
