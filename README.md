@@ -15,7 +15,7 @@ Installation
 * Download the data files from [here](https://drive.google.com/open?id=1B389bKAbJ99orANpXe2urNu7pj6yanY3). into the `data` directory. 
 * Extract all of the `.zip` files you downloaded.
 * Remove all the zip files by running `rm *.zip`.
-* Switch back into the `loan-prediction` directory using `cd ..`.
+* Switch back into the `Amazon-Apparel-Recommendations-Engine` directory using `cd ..`.
 
 
 ### Install the requirements
